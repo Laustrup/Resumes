@@ -10,8 +10,8 @@ First enter a folder of the language you prefer, then there will be a option of 
 * [Danish - Dark](https://github.com/Laustrup/Resumes/blob/master/danish/Dark-CV.pdf)
 
 
-* [English - Light](https://github.com/Laustrup/Resumes/blob/master/danish/Light-Resume.pdf)
-* [English - Dark](https://github.com/Laustrup/Resumes/blob/master/danish/Dark-Resume.pdf)
+* [English - Light](https://github.com/Laustrup/Resumes/blob/master/english/Light-Resume.pdf)
+* [English - Dark](https://github.com/Laustrup/Resumes/blob/master/english/Dark-Resume.pdf)
 
 ###### Interesting repositories to explore:
 
