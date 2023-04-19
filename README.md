@@ -18,4 +18,4 @@ First enter a folder of the language you prefer, then there will be a option of 
 
   My examproject fpr React Native with TypeScript.
 
-##### Feel free to return to my [PROFILE](https://github.com/Laustrup) or view my [REPOSITORIES](https://github.com/Laustrup?tab=repositories).
+### Feel free to return to my [PROFILE](https://github.com/Laustrup) or view my [REPOSITORIES](https://github.com/Laustrup?tab=repositories).
