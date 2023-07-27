@@ -1,17 +1,13 @@
-# My resumes
+# My Resumes
 
-### Welcome, feel free to read or download my resumes.
+### Welcome, feel free to read or download my resumes. Before hyperlinks works, you would need to download the pdf.
 
-First enter a folder of the language you prefer, then there will be a option of either a light or dark version of the resume.
+Select any language you would desire the resume to contain.
 
 ###### You can also choose to use these links to the resumes:
 
-* [Danish - Light](https://github.com/Laustrup/Resumes/blob/master/danish/Light-CV.pdf)
-* [Danish - Dark](https://github.com/Laustrup/Resumes/blob/master/danish/Dark-CV.pdf)
-
-
-* [English - Light](https://github.com/Laustrup/Resumes/blob/master/english/Light-Resume.pdf)
-* [English - Dark](https://github.com/Laustrup/Resumes/blob/master/english/Dark-Resume.pdf)
+* [Danish](https://github.com/Laustrup/Resumes/blob/master/Dansk_CV.pdf)
+* [English](https://github.com/Laustrup/Resumes/blob/master/English_Resume.pdf)
 
 ###### Interesting repositories to explore:
 
